@@ -1,0 +1,10 @@
+{
+  "simulation": "com.xhinliang.startup.gatling.ComputerWorld",
+  "simulationId": "computerworld",
+  "start": 1544861050427,
+  "description": "",
+  "scenarios": ["XhinLiang random api"],
+  "assertions": [
+
+  ]
+}
